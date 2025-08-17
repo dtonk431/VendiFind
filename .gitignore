@@ -1,0 +1,15 @@
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/build
+/captures
+.DS_Store
+
+# Keystore
+*.jks
+*.keystore
+# Google Services
+google-services.json
+# Secrets
+secrets.properties
